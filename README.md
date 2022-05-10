@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sum3105
-- 👀 I’m interested in Python programming, C programming and new to coding
+- 👀 I’m interested in Python programming, C programming and C++ programming
 - 🌱 I’m currently learning Bachelor in Computer Application(BCA)
 
 <!---
